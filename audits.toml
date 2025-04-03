@@ -1953,6 +1953,16 @@ aggregated-from = [
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
+[[audits.app_units]]
+who = "Emilio Cobos Álvarez <emilio@crisal.io>"
+criteria = "safe-to-deploy"
+delta = "0.7.3 -> 0.7.8"
+notes = "Relatively minor changes, no unsafety, only minor rounding API additions, malloc-size-of integration, tests, and formatting."
+aggregated-from = [
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
+]
+
 [[audits.arbitrary]]
 who = "Mike Hommey <mh+mozilla@glandium.org>"
 criteria = "safe-to-run"
@@ -8118,6 +8128,15 @@ aggregated-from = [
 who = "Erich Gubler <erichdongubler@gmail.com>"
 criteria = "safe-to-deploy"
 delta = "1.20.3 -> 1.21.1"
+aggregated-from = [
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
+]
+
+[[audits.once_cell]]
+who = "Erich Gubler <erichdongubler@gmail.com>"
+criteria = "safe-to-deploy"
+delta = "1.21.1 -> 1.21.3"
 aggregated-from = [
     "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
