@@ -13494,6 +13494,28 @@ end = "2024-05-26"
 notes = "Maintained by Bytecode Alliance that we (Embark) are part of and we trust their review & release process on https://github.com/bytecodealliance/wasmtime"
 aggregated-from = "https://raw.githubusercontent.com/EmbarkStudios/rust-ecosystem/main/audits.toml"
 
+[[trusted.derive_more]]
+criteria = "safe-to-deploy"
+user-id = 3797
+start = "2019-05-25"
+end = "2026-04-21"
+notes = "Jelte audits each PR that was submitted for security issues. He has not contributed much to Mozilla codebases, but is the maintainer of PgBouncer and is a Postgres contributor. Unsafe code is forbidden using #[forbid(unsafe_code)]."
+aggregated-from = [
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
+]
+
+[[trusted.derive_more-impl]]
+criteria = "safe-to-deploy"
+user-id = 3797
+start = "2023-07-23"
+end = "2026-04-21"
+notes = "Jelte audits each PR that was submitted for security issues. He has not contributed much to Mozilla codebases, but is the maintainer of PgBouncer and is a Postgres contributor. Unsafe code is forbidden using #[forbid(unsafe_code)]."
+aggregated-from = [
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
+]
+
 [[trusted.dtoa]]
 criteria = "safe-to-deploy"
 user-id = 3618
