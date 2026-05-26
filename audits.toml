@@ -1202,10 +1202,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2026-07-02"
+end = "2027-04-23"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1214,10 +1214,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2027-04-23"
+end = "2027-05-26"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1260,10 +1260,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2026-07-02"
+end = "2027-04-23"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1272,10 +1272,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2027-04-23"
+end = "2027-05-26"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1318,10 +1318,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2026-07-02"
+end = "2027-04-23"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1330,10 +1330,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2027-04-23"
+end = "2027-05-26"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1376,7 +1376,7 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2026-07-02"
+end = "2027-05-26"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
     "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
@@ -1434,7 +1434,7 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2026-07-02"
+end = "2027-05-26"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
     "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
@@ -1514,10 +1514,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2026-07-02"
+end = "2027-04-23"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1526,10 +1526,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2027-04-23"
+end = "2027-05-26"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1572,10 +1572,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-08-31"
-end = "2026-07-02"
+end = "2027-04-23"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
+    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1584,10 +1584,10 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-08-31"
-end = "2027-04-23"
+end = "2027-05-26"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
-    "https://hg.mozilla.org/mozilla-central/raw-file/tip/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
@@ -1654,7 +1654,7 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2022-05-05"
-end = "2026-07-02"
+end = "2027-05-26"
 notes = "Maintained by the Glean and Application Services teams"
 aggregated-from = [
     "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
@@ -1781,7 +1781,7 @@ who = "Jan-Erik Rediger <jrediger@mozilla.com>"
 criteria = "safe-to-deploy"
 user-id = 48
 start = "2021-03-03"
-end = "2026-07-02"
+end = "2027-05-26"
 notes = "Maintained by me"
 aggregated-from = [
     "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
