@@ -9994,6 +9994,15 @@ aggregated-from = [
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
+[[audits.mozbuild]]
+who = "Jan-Erik Rediger <jrediger@mozilla.com>"
+criteria = "safe-to-deploy"
+version = "0.1.1"
+aggregated-from = [
+    "https://raw.githubusercontent.com/mozilla/glean/main/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
+]
+
 [[audits.mtu]]
 who = "Max Inden <mail@max-inden.de>"
 criteria = "safe-to-deploy"
