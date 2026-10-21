@@ -20427,6 +20427,16 @@ aggregated-from = [
     "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
 ]
 
+[[trusted.xshell-venv]]
+criteria = "safe-to-deploy"
+user-id = 48
+start = "2022-04-26"
+end = "2027-10-21"
+aggregated-from = [
+    "https://raw.githubusercontent.com/mozilla-firefox/firefox/main/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
+]
+
 [[trusted.zerotrie]]
 criteria = "safe-to-deploy"
 user-id = 166196
