@@ -16398,6 +16398,16 @@ version = "0.1.0"
 notes = "No unsafe usage or ambient capabilities, sane build script"
 aggregated-from = "https://raw.githubusercontent.com/EmbarkStudios/rust-ecosystem/main/audits.toml"
 
+[[audits.valuable]]
+who = "Max Inden <mail@max-inden.de>"
+criteria = "safe-to-deploy"
+delta = "0.1.0 -> 0.1.1"
+notes = "Edition/MSRV bump and Cargo.toml normalization, a check-cfg line in build.rs, refreshed generated target lists, a generic hasher on the HashMap impls, docs. No unsafe, no I/O."
+aggregated-from = [
+    "https://raw.githubusercontent.com/mozilla-firefox/firefox/main/supply-chain/audits.toml",
+    "https://raw.githubusercontent.com/mozilla/supply-chain/main/audits.toml",
+]
+
 [[audits.vec1]]
 who = "Johan Andersson <opensource@embark-studios.com>"
 criteria = "safe-to-deploy"
